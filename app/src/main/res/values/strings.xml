@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ComposeApplication</string>
+    <string name="detail">detail</string>
+    <string name="friends_list">friends_list</string>
 </resources>
